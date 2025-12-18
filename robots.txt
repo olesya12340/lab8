@@ -5,4 +5,5 @@ Disallow: /js/
 Disallow: /images/
 Allow: /
 
-Sitemap: https://ТВОЙ_ЛОГИН.github.io/seo_lab/sitemap.xml
+Sitemap: https://olesya12340.github.io/seo_lab/sitemap.xml
+
